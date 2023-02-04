@@ -1,0 +1,27 @@
+[
+  {
+    "name":"Aptos Labs",
+    "url":"https://aptoslabs.com/careers",
+    "jobTitleSelector":"li:nth-child(1) > h5"
+  },
+  {
+    "name":"Variant",
+    "url":"https://variant.getro.com/jobs?page=1",
+    "jobTitleSelector":".job-info a > div > div"
+  },
+  {
+    "name":"Solana",
+    "url":"https://jobs.solana.com/jobs?page=1",
+    "jobTitleSelector":".job-info a > div > div"
+  },
+  {
+    "name":"Web3",
+    "url":"https://web3.career/remote-jobs?page=1",
+    "jobTitleSelector":"td:nth-child(3)"
+  },
+  {
+    "name":"Framework Ventures",
+    "url":"https://jobs.framework.ventures/jobs?page=1",
+    "jobTitleSelector":".job-info  h4  a"
+  }
+]
