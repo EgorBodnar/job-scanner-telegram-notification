@@ -5,23 +5,223 @@
     "jobTitleSelector":"li:nth-child(1) > h5"
   },
   {
-    "name":"Variant",
-    "url":"https://variant.getro.com/jobs?page=1",
-    "jobTitleSelector":".job-info a > div > div"
-  },
-  {
-    "name":"Solana",
-    "url":"https://jobs.solana.com/jobs?page=1",
-    "jobTitleSelector":".job-info a > div > div"
-  },
-  {
     "name":"Web3",
-    "url":"https://web3.career/remote-jobs?page=1",
+    "url":"https://web3.career/remote-jobs?page=5",
     "jobTitleSelector":"td:nth-child(3)"
   },
   {
     "name":"Framework Ventures",
-    "url":"https://jobs.framework.ventures/jobs?page=1",
+    "url":"https://jobs.framework.ventures/jobs?page=5",
     "jobTitleSelector":".job-info  h4  a"
+  },
+  {
+    "name":"Neo",
+    "url":"https://neo.org/joinus",
+    "jobTitleSelector":"a > h4"
+  },
+  {
+    "name":"The Graph",
+    "url":"https://thegraph.com/jobs/",
+    "jobTitleSelector":"tbody tr > td:nth-child(1)"
+  },
+  {
+    "name":"SingularityNET",
+    "url":"https://singularitynet.io/jobs/",
+    "jobTitleSelector":"h5 > strong"
+  },
+  {
+    "name":"Ethereum",
+    "url":"https://ethereum.org/en/about/#open-jobs",
+    "jobTitleSelector":"article > ul > li > a"
+  },
+  {
+    "name":"Cardano foundation",
+    "url":"https://cardano-foundation.jobs.personio.com/",
+    "jobTitleSelector":".jb-title"
+  },
+  {
+    "name":"Emugo",
+    "url":"https://emurgo.io/career/",
+    "jobTitleSelector":"div > h3"
+  },
+  {
+    "name":"Chainlink Labs",
+    "url":"https://chainlinklabs.com/jobs",
+    "jobTitleSelector":"div.jobs-list > div > a"
+  },
+  {
+    "name":"Optimism Ecosystem",
+    "url":"https://jobs.optimism.io/jobs",
+    "jobTitleSelector":".job-info > h4 > a"
+  },
+  {
+    "name":"Fantom Foundation",
+    "url":"https://fantom.foundation/careers/",
+    "jobTitleSelector":".careers-job-sec > h3"
+  },
+  {
+    "name":"Cosmos Network",
+    "url":"https://jobs.cosmos.network/",
+    "jobTitleSelector":"div.media-body > h4"
+  },
+  {
+    "name":"Polygon",
+    "url":"https://jobs.lever.co/Polygon/",
+    "jobTitleSelector":".posting h5"
+  },
+  {
+    "name":"Terra",
+    "url":"https://jobs.lever.co/terra",
+    "jobTitleSelector":".posting h5"
+  },
+  {
+    "name":"Ave",
+    "url":"https://jobs.eu.lever.co/aave/",
+    "jobTitleSelector":".posting h5"
+  },
+  {
+    "name":"Kava",
+    "url":"https://jobs.lever.co/kava",
+    "jobTitleSelector":".posting h5"
+  },
+  {
+    "name":"Variant",
+    "url":"https://variant.getro.com/jobs?page=5",
+    "jobTitleSelector":".job-info a > div > div"
+  },
+  {
+    "name":"Solana",
+    "url":"https://jobs.solana.com/jobs?page=5",
+    "jobTitleSelector":".job-info a > div > div"
+  },
+  {
+    "name":"Polygon Ecosystem",
+    "url":"https://wagmijobs.polygon.technology/jobs?page=5",
+    "jobTitleSelector":".job-info > h4 > a > div > div"
+  },
+  {
+    "name":"Tezos",
+    "url":"https://careers.tezos.com/jobs?page=5",
+    "jobTitleSelector":".job-info > h4 > a > div > div"
+  },
+  {
+    "name":"Algorand",
+    "url":"https://jobs.algorand.foundation/jobs?page=5",
+    "jobTitleSelector":".job-info > h4 > a > div > div"
+  },
+  {
+    "name":"Hedera Ecosystem",
+    "url":"https://careers.hedera.community/jobs?page=5",
+    "jobTitleSelector":".job-info > h4 > a > div > div"
+  },
+  {
+  "name":"Internet Computer Ecosystem",
+  "url":"https://careers.internetcomputer.org/jobs?page=5",
+  "jobTitleSelector":".job-info a > div > div"
+  },
+  {
+    "name":"Near",
+    "url":"https://careers.near.org/jobs?page=5",
+    "jobTitleSelector":".job-info > h4 > a > div > div"
+  },
+  {
+    "name":"Ton",
+    "url":"https://jobs.ton.org/jobs?page=5",
+    "jobTitleSelector":".job-info > h4 > a > div > div"
+  },
+  {
+    "name":"Makerdao",
+    "url":"https://forum.makerdao.com/c/resources/job-opportunities/",
+    "jobTitleSelector":".topic-list-data > span > a"
+  },
+  {
+    "name":"Makerdao Recruitee",
+    "url":"https://makerdao.recruitee.com/",
+    "jobTitleSelector":"#\\31  > div > div > div > div:nth-child(1)> a"
+  },
+  {
+    "name":"Flow",
+    "url":"https://flow.com/careers",
+    "jobTitleSelector":"div > div.toggle-show.w-clearfix > h4"
+  },
+  {
+    "name":"Stacks",
+    "url":"https://www.stacks.co/jobs",
+    "jobTitleSelector":"div.card-content > h2"
+  },
+  {
+    "name":"eCash",
+    "url":"https://e.cash/careers",
+    "jobTitleSelector":".careerwrap h3"
+  },
+  {
+    "name":"Hedera",
+    "url":"https://hedera.com/future",
+    "jobTitleSelector":".opening > a"
+  },
+  {
+    "name":"Bit Dao",
+    "url":"https://www.bitdao.io/jobs",
+    "jobTitleSelector":".space-y-2 a > span"
+  },
+  {
+    "name":"Uniswap Labs",
+    "url":"https://boards.greenhouse.io/uniswaplabs",
+    "jobTitleSelector":".opening > a"
+  },
+  {
+    "name":"Stellar",
+    "url":"https://boards.greenhouse.io/stellar",
+    "jobTitleSelector":".opening > a"
+  },
+  {
+    "name":"Stellar",
+    "url":"https://boards.greenhouse.io/stellar",
+    "jobTitleSelector":".opening > a"
+  },
+  {
+    "name":"Lido",
+    "url":"https://careers.lido.fi/",
+    "jobTitleSelector":".notion-page-content > article > a > span"
+  },
+  {
+    "name":"VeWorld",
+    "url":"https://www.veworld.com/joinUs",
+    "jobTitleSelector":".hiring-item .position-title"
+  },
+  {
+    "name":"Dfinity",
+    "url":"https://dfinity.org/about#jobs",
+    "jobTitleSelector":"div:has(h4) button > div > div:nth-child(1)"
+  },
+  {
+    "name":"IO Global",
+    "url":"https://apply.workable.com/io-global/#jobs",
+    "jobTitleSelector":"h2[data-ui ='job-title'] > span"
+  },
+  {
+    "name":"Quant",
+    "url":"https://apply.workable.com/quant-3/",
+    "jobTitleSelector":"h2[data-ui ='job-title'] > span"
+  },
+  {
+    "name":"EOS Network Foundation",
+    "url":"https://apply.workable.com/enf/#jobs",
+    "jobTitleSelector":"h2[data-ui ='job-title'] > span"
+  },
+  {
+    "name":"Chiliz",
+    "url":"https://www.chiliz.com/en/careers/",
+    "jobTitleSelector":".BambooHR-ATS-Jobs-Item > a"
+  },
+  {
+    "name":"PancakeSwap",
+    "url":"https://docs.pancakeswap.finance/hiring/become-a-chef/",
+    "jobTitleSelector":"div a[href='/hiring/become-a-chef'] + div > div a"
+  },
+  {
+    "name":"Krust Universe",
+    "url":"https://krust-universe.breezy.hr/",
+    "jobTitleSelector":"li.position > a > h2"
   }
 ]
