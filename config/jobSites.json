@@ -207,6 +207,19 @@
   {
     "name":"Chiliz",
     "url":"https://chiliz.bamboohr.com/careers",
-    "jobTitleSelector":"li div > a"
+    "jobTitleSelector":"li div > a",
+    "antiBotCheck": true
+  },
+  {
+    "name":"Fantom Foundation",
+    "url":"https://fantom.foundation/careers/",
+    "jobTitleSelector":".careers-job-sec > h3",
+    "antiBotCheck": true
+  },
+  {
+    "name":"Lido",
+    "url":"https://careers.lido.fi/",
+    "jobTitleSelector":".notion-page-content > article > a > span",
+    "antiBotCheck": true
   }
 ]
