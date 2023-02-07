@@ -170,11 +170,6 @@
     "jobTitleSelector":".opening > a"
   },
   {
-    "name":"Stellar",
-    "url":"https://boards.greenhouse.io/stellar",
-    "jobTitleSelector":".opening > a"
-  },
-  {
     "name":"VeWorld",
     "url":"https://www.veworld.com/joinUs",
     "jobTitleSelector":".hiring-item .position-title"
@@ -212,6 +207,6 @@
   {
     "name":"Chiliz",
     "url":"https://chiliz.bamboohr.com/careers",
-    "jobTitleSelector":".MuiBox-root > a"
+    "jobTitleSelector":"li div > a"
   }
 ]
