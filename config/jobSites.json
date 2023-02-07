@@ -55,11 +55,6 @@
     "jobTitleSelector":".job-info > h4 > a"
   },
   {
-    "name":"Fantom Foundation",
-    "url":"https://fantom.foundation/careers/",
-    "jobTitleSelector":".careers-job-sec > h3"
-  },
-  {
     "name":"Cosmos Network",
     "url":"https://jobs.cosmos.network/",
     "jobTitleSelector":"div.media-body > h4"
@@ -180,11 +175,6 @@
     "jobTitleSelector":".opening > a"
   },
   {
-    "name":"Lido",
-    "url":"https://careers.lido.fi/",
-    "jobTitleSelector":".notion-page-content > article > a > span"
-  },
-  {
     "name":"VeWorld",
     "url":"https://www.veworld.com/joinUs",
     "jobTitleSelector":".hiring-item .position-title"
@@ -210,11 +200,6 @@
     "jobTitleSelector":"h2[data-ui ='job-title'] > span"
   },
   {
-    "name":"Chiliz",
-    "url":"https://www.chiliz.com/en/careers/",
-    "jobTitleSelector":".BambooHR-ATS-Jobs-Item > a"
-  },
-  {
     "name":"PancakeSwap",
     "url":"https://docs.pancakeswap.finance/hiring/become-a-chef/",
     "jobTitleSelector":"div a[href='/hiring/become-a-chef'] + div > div a"
@@ -223,5 +208,10 @@
     "name":"Krust Universe",
     "url":"https://krust-universe.breezy.hr/",
     "jobTitleSelector":"li.position > a > h2"
+  },
+  {
+    "name":"Chiliz",
+    "url":"https://chiliz.bamboohr.com/careers",
+    "jobTitleSelector":".MuiBox-root > a"
   }
 ]
