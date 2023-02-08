@@ -5,11 +5,6 @@
     "jobTitleSelector":"li:nth-child(1) > h5"
   },
   {
-    "name":"Web3",
-    "url":"https://web3.career/remote-jobs?page=5",
-    "jobTitleSelector":"td:nth-child(3)"
-  },
-  {
     "name":"Framework Ventures",
     "url":"https://jobs.framework.ventures/jobs?page=5",
     "jobTitleSelector":".job-info  h4  a"
@@ -220,6 +215,18 @@
     "name":"Lido",
     "url":"https://careers.lido.fi/",
     "jobTitleSelector":".notion-page-content > article > a > span",
+    "antiBotCheck": true
+  },
+  {
+    "name":"Web3",
+    "url":"https://web3.career/quality-assurance+remote-jobs",
+    "jobTitleSelector":"td:nth-child(3)",
+    "antiBotCheck": true
+  },
+  {
+    "name":"CoinMarketCap",
+    "url":"https://coinmarketcap.com/jobs/#jobs",
+    "jobTitleSelector":"div:has( > div[id='jobs']) > div > div >div",
     "antiBotCheck": true
   }
 ]
